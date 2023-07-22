@@ -100,7 +100,8 @@ The `InfiniteScroll` component can be used in three ways.
   - [![Edit w3w89k7x8](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w3w89k7x8)
 - infinite scroll with `scrollableTarget` (a parent element which is scrollable)
   - [![Edit r7rp40n0zm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/r7rp40n0zm)
-
+- Infinite scroll with Fetch API
+- [![Edit] (https://stackblitz.com/edit/stackblitz-starters-yhenes?file=src%2FApp.tsx)]
 ## props
 
 | name                           | type                 | description                                                                                                                                                                                                                                                                                                                                   |
